@@ -1,13 +1,23 @@
-Este es un proyecto educativo que hicimos como parte de le educacion en Soy Henry.
+# E-Commerce
+E-commerce realizado en equipo como parte de instancia evaluativa en [Soy Henry](https://www.soyhenry.com/).
 
-## Objetivos del Proyecto
+## Construido con 🛠️
+* **JavaScript (ES6)**
+* **React - Redux**
+* **Hooks**
+* **Node.Js**
+* **Express**
+* **PostgreSQL / Sequelize**
+* **Google API**
+* **Bootstrap**
+* **Material-ui**
+* **VS Code**
 
-- Construir una App JavaScript desde cero.
-- Afirmar y conectar los conceptos aprendidos en la carrera.
-- Aprender mejores prácticas.
-- Aprender y practicar el workflow de GIT.
-- Utilizar Metodologías Ágiles.
-- Trabajar en equipo.
-- Usar y practicar testing.
-- Deployar la aplicación y entender el proceso de Deployment.
+## Contributors 🚀
 
+* [Lucca Lipisky](https://github.com/luccalipisky)
+* [Fernando Checchi](https://github.com/FernandoChecchi)
+* [Edgar Palma](https://github.com/Edgar9408)
+* [Agustin Rojas](https://github.com/AgusJordi)
+
+Objetivos a lograr descriptos en el readme dentro de la carpeta.
